@@ -1,0 +1,16 @@
+/* h1{color: blue;
+background-color: aquamarine;
+text-align: center;
+border: 2.5px blue solid;
+border-radius: 1px;
+margin-bottom: 100px;
+padding-top: 20px;
+padding-bottom: 20px;} */
+
+h1{color: red;}
+
+.title {background-color: aquamarine;}
+
+#important {
+    color: brown;
+}
